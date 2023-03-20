@@ -40,6 +40,7 @@ p{
     font-size: larger;
 }
 .mode{
+    width: 200px;
     position: absolute;
     bottom: 0;
     right: 0;
